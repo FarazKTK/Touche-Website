@@ -1,0 +1,433 @@
+@media (width: 320px){
+    .navbar-brand{
+        font-size: 30px !important;
+    }
+    .navbar-nav .nav-link{
+        font-size: 15px !important;
+    }
+    .touche-text{
+        position: absolute !important;
+        margin-left: 25px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 80px !important;
+    }
+    .touche-text p{
+        font-size: 19px !important;
+    }
+    .touche-text .btn{
+        padding: 10px 16px !important;
+    }
+    .item-categories{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 375px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 45px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 86px !important;
+    }
+    .touche-text p{
+        font-size: 20px !important;
+    }
+    .touche-text .btn{
+        padding: 10px 16px !important;
+    }
+    .item-categories{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 414px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 50px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 90px !important;
+    }
+    .touche-text p{
+        font-size: 20px !important;
+    }
+    .touche-text .btn{
+        padding: 10px 16px !important;
+    }
+    .item-categories{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 390px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 45px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 86px !important;
+    }
+    .touche-text p{
+        font-size: 20px !important;
+    }
+    .touche-text .btn{
+        padding: 10px 16px !important;
+    }
+    .item-categories{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 430px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 65px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 90px !important;
+    }
+    .touche-text p{
+        font-size: 20px !important;
+    }
+    .touche-text .btn{
+        padding: 10px 16px !important;
+    }
+    .item-categories{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 412px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 55px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 86px !important;
+    }
+    .touche-text p{
+        font-size: 20px !important;
+    }
+    .touche-text .btn{
+        padding: 10px 16px !important;
+    }
+    .item-categories{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 360px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 35px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 86px !important;
+    }
+    .touche-text p{
+        font-size: 20px !important;
+    }
+    .touche-text .btn{
+        padding: 10px 16px !important;
+    }
+    .item-categories{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 768px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 200px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 120px !important;
+    }
+    .touche-text p{
+        font-size: 25px !important;
+    }
+    .touche-text .btn{
+        padding: 14px 20px !important;
+    }
+    .about-text{
+        margin-top: 0 !important;
+    }
+    .about-text h2{
+        font-size: 18px !important;
+        margin: 0 0 8px 0 !important;
+    }
+    .about-text h3{
+        font-size: 15px !important;
+    }
+    .about-text hr{
+        margin-bottom: 10px !important;
+    }
+    .about-text p{
+        line-height: 20px !important;
+        margin: 10px 0 10px !important;
+        font-size: 12px !important;
+    }
+    .img-responses{
+        max-width: 100% !important;
+    }
+    .about-text hr{
+        height: 1px !important;
+        margin-bottom: 2px !important;
+    }
+}
+@media (width: 820px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 215px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 120px !important;
+    }
+    .touche-text p{
+        font-size: 25px !important;
+    }
+    .touche-text .btn{
+        padding: 14px 20px !important;
+    }
+    .about-text{
+        margin-top: 0 !important;
+    }
+    .about-text h2{
+        font-size: 18px !important;
+        margin: 0 0 8px 0 !important;
+    }
+    .about-text h3{
+        font-size: 15px !important;
+    }
+    .about-text hr{
+        margin-bottom: 10px !important;
+    }
+    .about-text p{
+        line-height: 20px !important;
+        margin: 10px 0 10px !important;
+        font-size: 12px !important;
+    }
+    .img-responses{
+        max-width: 100% !important;
+    }
+    .about-text hr{
+        height: 1px !important;
+        margin-bottom: 2px !important;
+    }
+}
+@media (width: 1024px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 290px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 120px !important;
+    }
+    .touche-text p{
+        font-size: 25px !important;
+    }
+    .touche-text .btn{
+        padding: 14px 20px !important;
+    }
+    .about-text{
+        margin-top: 15px !important;
+    }
+    .about-text h2{
+        font-size: 25px !important;
+        margin: 0 0 20px 0 !important;
+    }
+    .about-text h3{
+        font-size: 20px !important;
+    }
+    .about-text hr{
+        margin-bottom: 10px !important;
+    }
+    .about-text p{
+        line-height: 20px !important;
+        margin: 10px 0 10px !important;
+        font-size: 15px !important;
+    }
+    .img-responses{
+        max-width: 100% !important;
+    }
+    .about-text hr{
+        height: 2px !important;
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 912px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 260px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 120px !important;
+    }
+    .touche-text p{
+        font-size: 25px !important;
+    }
+    .touche-text .btn{
+        padding: 14px 20px !important;
+    }
+    .about-text{
+        margin-top: 0 !important;
+    }
+    .about-text h2{
+        font-size: 18px !important;
+        margin: 0 0 8px 0 !important;
+    }
+    .about-text h3{
+        font-size: 15px !important;
+    }
+    .about-text hr{
+        margin-bottom: 10px !important;
+    }
+    .about-text p{
+        line-height: 20px !important;
+        margin: 10px 0 10px !important;
+        font-size: 12px !important;
+    }
+    .img-responses{
+        max-width: 100% !important;
+    }
+    .about-text hr{
+        height: 1px !important;
+        margin-bottom: 2px !important;
+    }
+}
+@media (width: 540px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 78px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 110px !important;
+    }
+    .touche-text p{
+        font-size: 22px !important;
+    }
+    .touche-text .btn{
+        padding: 14px 20px !important;
+    }
+    .item-categories{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 344px){
+    .navbar-brand{
+        font-size: 30px !important;
+    }
+    .touche-text{
+        position: absolute !important;
+        margin-left: 43px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 78px !important;
+    }
+    .touche-text p{
+        font-size: 20px !important;
+    }
+    .touche-text .btn{
+        padding: 10px 16px !important;
+    }
+    .item-categories{
+        margin-bottom: 10px !important;
+    }
+}
+@media (width: 853px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 235px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 120px !important;
+    }
+    .touche-text p{
+        font-size: 25px !important;
+    }
+    .touche-text .btn{
+        padding: 14px 20px !important;
+    }
+    .about-text{
+        margin-top: 0 !important;
+    }
+    .about-text h2{
+        font-size: 18px !important;
+        margin: 0 0 8px 0 !important;
+    }
+    .about-text h3{
+        font-size: 15px !important;
+    }
+    .about-text hr{
+        margin-bottom: 10px !important;
+    }
+    .about-text p{
+        line-height: 20px !important;
+        margin: 10px 0 10px !important;
+        font-size: 12px !important;
+    }
+    .img-responses{
+        max-width: 100% !important;
+    }
+    .about-text hr{
+        height: 1px !important;
+        margin-bottom: 2px !important;
+    }
+}
+@media (width: 1280px){
+    .touche-text{
+        position: absolute !important;
+        margin-left: 345px !important;
+        margin-top: 140px !important;
+    }
+    .touche-text h1{
+        font-size: 120px !important;
+    }
+    .touche-text p{
+        font-size: 25px !important;
+    }
+    .touche-text .btn{
+        padding: 14px 20px !important;
+    }
+    .about-text{
+        margin-left: 10px !important;
+        margin-top: 5px !important;
+    }
+    .about-text h2{
+        margin: 0 0 20px 0 !important;
+        color: #333 !important;
+        font-size: 32px !important;
+        font-weight: 500 !important;
+        text-transform: uppercase !important;
+    }
+    .about-text hr{
+        height: 2px !important;
+        width: 70px !important;
+        text-align: center !important;
+        background-color: #8eb640 !important;
+        position:  relative !important;
+        margin: 0 !important;
+        margin-bottom: 40px !important;
+    }
+    .about-text p{
+        line-height: 24px !important;
+        margin: 15px 0 30px !important;
+        font-size: 16px !important;
+        color: #bdb3b3 !important;
+    }
+    .about-text h3{
+        font-size: 20px !important;
+        font-weight: 500 !important;
+        color: #333 !important;
+    }
+    
+}
